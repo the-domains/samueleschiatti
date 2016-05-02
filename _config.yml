@@ -1,0 +1,28 @@
+name: samueleschiatti
+favicon: null
+layout_spectrum: 0.6800193751696497
+typography_spectrum: 0.560985530493781
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5504779315087944
+  lightness: 0.23794959764927626
+  saturation: 0.30983926355838776
+  rhythmicContrast: 0.2951793964020908
+purpose: []
