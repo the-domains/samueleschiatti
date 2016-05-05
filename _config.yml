@@ -1,28 +1,40 @@
-name: samueleschiatti
-favicon: null
-layout_spectrum: 0.6800193751696497
-typography_spectrum: 0.560985530493781
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5504779315087944
-  lightness: 0.23794959764927626
-  saturation: 0.30983926355838776
-  rhythmicContrast: 0.2951793964020908
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3369175
+  brandStrength: 0.5504779315087944
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#030305'
+    - '#6A6A6A'
+    - '#202022'
+    - '#A0A0A1'
+  rhythmicContrast: 0.2951794
+typography_spectrum: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+favicon: null
+name: samueleschiatti
